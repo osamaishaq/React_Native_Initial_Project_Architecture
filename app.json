@@ -1,0 +1,12 @@
+{
+  "name": "MyReactNativeArchitecture",
+  "displayName": "MyReactNativeArchitecture",
+  "expo": {
+    "name": "MyReactNativeArchitecture",
+    "slug": "MyReactNativeArchitecture",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
